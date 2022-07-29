@@ -4,4 +4,4 @@ Um projeto pessoal que tem como objetivo a criação de iamgens a partir da ling
 
 Atualmente, com as funções disponíveis o projeto gera imagens como esta:
 
-![img_1.png](img_1.png)
+![165.png](https://github.com/ThomasMGuarnieri/pixelImageGenerator/blob/main/stripedImages/165.png?raw=true)
