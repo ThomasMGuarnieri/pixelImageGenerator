@@ -1,6 +1,6 @@
 ## Pixel Image Generator
 
-Um projeto pessoal que tem como objetivo a criação de iamgens a partir da linguam Go e suas bilibotecas
+Um projeto pessoal que tem como objetivo a criação de imagens a partir da linguagem Go e suas bibliotecas
 
 Atualmente, com as funções disponíveis o projeto gera imagens como esta:
 
